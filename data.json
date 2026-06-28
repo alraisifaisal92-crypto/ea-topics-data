@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "exportedAt": "2026-06-28T06:54:56.121Z",
+  "exportedAt": "2026-06-28T06:55:56.123Z",
   "exportedBy": "admin",
   "topics": [
     {
@@ -32726,21 +32726,21 @@
       "source": "gov",
       "subject": "توفير خمسين الف شتلة لممشروع ازرع عمان.pdf",
       "fromEntity": "ديوان البلاط السلطاني",
-      "letterNo": 503,
-      "letterDate": "2026-05-29T20:00:00.000Z",
-      "arrivalDate": "2026-05-31T20:00:00.000Z",
-      "referredDate": "2026-05-31T20:00:00.000Z",
-      "letterPrepDate": null,
-      "status": "noResponseNeeded",
-      "responseDate": null,
+      "letterNo": "503",
+      "letterDate": "2026-05-30T00:00:00.000Z",
+      "arrivalDate": "2026-06-01T00:00:00.000Z",
+      "referredDate": "2026-06-01T00:00:00.000Z",
+      "letterPrepDate": "2026-06-24T00:00:00.000Z",
+      "status": "responded",
+      "responseDate": "2026-06-24T00:00:00.000Z",
       "respRaw": "لا يحتاج رد",
-      "durationDays": null,
+      "durationDays": -17,
       "content": "",
       "allowedDays": null,
       "notes": "",
       "createdAt": "2026-06-28T05:54:15.352Z",
       "createdBy": "admin",
-      "updatedAt": "2026-06-28T05:54:15.352Z"
+      "updatedAt": "2026-06-28T06:55:02.758Z"
     },
     {
       "id": "t_mqxdizeg_4nd6c",
